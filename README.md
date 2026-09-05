@@ -1,86 +1,148 @@
 # Niloufar Ahmadymarzdashty
 
-### Biomedical Engineer | Space Medicine & Bioastronautics | AI for Human Spaceflight
+### Biomedical Engineer · Space Medicine & Bioastronautics · AI for Human Spaceflight
 
-Biomedical engineer, scientific author, and editor based in Bavaria, Germany. My work connects **space biomedical engineering, rehabilitation engineering, medical technology, and artificial intelligence**, with a current focus on human performance and health during prolonged spaceflight.
+Biomedical engineer, scientific author, and researcher working at the intersection of **human spaceflight physiology, rehabilitation engineering, biomedical technology, and artificial intelligence**.
 
-I am developing a doctoral research direction around **AI-assisted prediction and personalized countermeasure strategies for cardiovascular and musculoskeletal deconditioning in microgravity**, integrating head-down bed rest (HDBR) analogue data, physiological monitoring, lower-body negative pressure (LBNP), rehabilitation engineering, and explainable AI.
+My current research direction focuses on data-driven prediction and mitigation of **musculoskeletal and cardiovascular deconditioning during prolonged unloading and microgravity analogues**, with particular interest in interpretable AI, physiological monitoring, and personalized countermeasure strategies.
 
-## Current Research
+---
 
-### From Bed Rest to Mars
-A literature-derived machine-learning framework for predicting **lower-limb muscle atrophy in spaceflight analogues**.
+## 🚀 Featured Research Project
 
-Current methodological framework includes:
-- Head-down bed rest and prolonged unloading data
-- Lower-limb muscle atrophy and muscle-group susceptibility
-- Literature-derived biomedical datasets
-- Linear Regression, Random Forest, Support Vector Regression, and Gradient Boosting
-- Leave-One-Study-Out cross-validation
-- SHAP-based model interpretation
-- Future risk stratification and personalized countermeasure concepts
+### [From Bed Rest to Mars](https://github.com/MiladBahariQaragoz/BedrestToMars)
 
-## Research Interests
+**Development of a literature-derived machine-learning framework for predicting lower-limb muscle atrophy in spaceflight analogues.**
+
+This collaborative research project transforms evidence from bed-rest and head-down bed-rest studies into a structured and reproducible biomedical dataset for modelling muscle loss associated with prolonged unloading.
+
+### Scientific Focus
+
+- Head-Down Bed Rest (HDBR) and prolonged unloading
+- Lower-limb muscle atrophy
+- Muscle-specific susceptibility to unloading
+- Literature screening and structured data extraction
+- Biomedical dataset development
+- Human spaceflight risk stratification
+- Rehabilitation and countermeasure concepts
+
+### Methods & Computational Framework
+
+`Python` · `Machine Learning` · `Linear Regression` · `Random Forest` · `Support Vector Regression` · `Gradient Boosting` · `Leave-One-Study-Out Cross-Validation` · `SHAP`
+
+The project is being developed as a **reproducible research workflow** linking published evidence, structured biomedical data, predictive modelling, validation, and scientific interpretation.
+
+---
+
+## 🔬 Research Interests
 
 - Space Biomedical Engineering
-- Bioastronautics and Space Medicine
-- Altered-Gravity Physiology
+- Bioastronautics & Space Medicine
+- Human Spaceflight Physiology
 - Astronaut Health Monitoring
-- Musculoskeletal and Cardiovascular Deconditioning
+- Musculoskeletal Deconditioning
+- Cardiovascular Deconditioning
 - Head-Down Bed Rest (HDBR)
 - Lower-Body Negative Pressure (LBNP)
-- Rehabilitation and Countermeasures
-- Explainable AI in Space Health
-- Biomedical Instrumentation and Telemedicine
+- Rehabilitation & Spaceflight Countermeasures
+- Explainable AI for Space Health
+- Biomedical Instrumentation
+- Telemedicine & Remote Physiological Monitoring
 - Human-System Integration
 
-## 2026 Research & Conferences
+---
 
-- **DGLRM 2026 — German Society of Aviation and Space Medicine**  
-  *From Bed Rest to Mars: Development of a Literature-Derived Machine Learning Framework for Predicting Lower-Limb Muscle Atrophy in Spaceflight Analogues*  
-  Accepted and invited for **oral presentation**.
+## 🛰️ 2026 Research Milestones
 
-- **ICAM 2026 — International Congress of Aerospace Medicine**  
-  *Space Musculoskeletal Risk Stratification (SMRS): A Literature-Derived Framework for Future Explainable AI-Assisted Clinical Decision Support in Human Spaceflight*  
-  Accepted for **poster presentation**.
+### DGLRM 2026 — German Society of Aviation and Space Medicine
 
-## Academic Background
+**From Bed Rest to Mars: Development of a Literature-Derived Machine Learning Framework for Predicting Lower-Limb Muscle Atrophy in Spaceflight Analogues**
 
-**M.Sc. Biomedical Engineering — Rehabilitation Engineering**  
-Islamic Azad University, Science and Research Branch, Tehran
+Accepted and invited for **oral presentation**.
 
-Master's research adapted **NASA-derived Stocking Plethysmography** and artificial neural networks for lower-extremity volume prediction.
+---
 
-**B.Sc. Clinical Biomedical Engineering**  
-Islamic Azad University, Science and Research Branch, Tehran
+### ICAM 2026 — International Congress of Aerospace Medicine
 
-My foreign qualification has been assessed at the **German Master's level**, and I am authorized in Bavaria to use the protected professional title **Ingenieurin**.
+**Space Musculoskeletal Risk Stratification (SMRS): Explainable AI-Assisted Clinical Decision Support for Lower-Limb Muscle Atrophy in Spaceflight Analogues**
 
-## Scientific Authorship & Communication
+**Abstract No. 0209 — Accepted for poster presentation.**
+
+---
+
+## 🎓 Academic Background
+
+### M.Sc. Biomedical Engineering — Rehabilitation Engineering
+**Islamic Azad University, Science and Research Branch, Tehran**
+
+My master's research incorporated **NASA-derived Stocking Plethysmography** and artificial neural networks for lower-extremity volume prediction.
+
+### B.Sc. Clinical Biomedical Engineering
+**Islamic Azad University, Science and Research Branch, Tehran**
+
+My foreign university qualification has been assessed at the **German Master's level**, and I am authorized in Bavaria to use the protected professional title **Ingenieurin**.
+
+---
+
+## 📚 Scientific Authorship & Communication
 
 - **12 published books**
 - **1,920 published pages**
 - **45+ specialist technical and science-communication pieces**
-- Author of the two-volume **Biomedical Engineering in Space**
+- Author of **Biomedical Engineering in Space — Volumes I & II**
 - Author of **Space Medicine**
-- Previous scientific editorial and biomedical-engineering communication experience
+- Experience in scientific editing and biomedical-engineering communication
 
-Selected subject areas across my published work include astronaut health, telemedicine, LBNP, clinostats, space bioreactors, medical devices, and terrestrial applications of space-derived technologies.
+My published work has addressed topics including astronaut health, space biomedical engineering, telemedicine, LBNP, clinostats, space bioreactors, medical technologies, and terrestrial applications of space-derived technologies.
 
-## Engineering & Medical-Technology Experience
+---
 
-- Medical-device R&D and regulatory affairs
+## 🩺 Engineering & Medical-Technology Background
+
+My professional background also includes:
+
+- Medical-device R&D
+- Regulatory affairs
 - ISO 13485 quality systems
-- Risk management and technical documentation
-- Verification and validation
+- Risk management
+- Technical documentation
+- Verification & validation
 - Manufacturing transfer and lifecycle documentation
 - Biomechanics and rehabilitation research
-- Scientific editing and long-form technical writing
+- Scientific and technical writing
 
-## Research Identity
+---
+
+## 🧭 Doctoral Research Direction
+
+I am developing a doctoral research direction focused on **AI-assisted prediction and personalized countermeasure strategies for physiological deconditioning during human spaceflight**.
+
+Areas of particular interest include:
+
+- Multimodal physiological data
+- Musculoskeletal and cardiovascular risk prediction
+- HDBR and other spaceflight analogue datasets
+- Lower-Body Negative Pressure
+- Wearable and remote physiological monitoring
+- Explainable AI
+- Rehabilitation engineering
+- Personalized astronaut countermeasures
+
+---
+
+## 🔗 Research Identity
 
 **ORCID:** [0009-0003-6675-354X](https://orcid.org/0009-0003-6675-354X)
 
-## Open to Collaboration
+**GitHub Research Project:**  
+[MiladBahariQaragoz/BedrestToMars](https://github.com/MiladBahariQaragoz/BedrestToMars)
 
-I am interested in **doctoral research opportunities and scientific collaborations** involving human spaceflight physiology, biomedical AI, musculoskeletal risk prediction, rehabilitation countermeasures, astronaut health monitoring, and space medical technologies.
+---
+
+## 🤝 Open to Collaboration
+
+I am interested in **doctoral research opportunities, interdisciplinary research collaborations, and scientific projects** involving:
+
+**Human Spaceflight Physiology · Space Medicine · Bioastronautics · Biomedical AI · Musculoskeletal Risk Prediction · Rehabilitation Countermeasures · Astronaut Health Monitoring · Space Medical Technologies**
+
+> From biomedical data to safer human spaceflight.
